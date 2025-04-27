@@ -10,7 +10,7 @@ print(quick_sort([5, 3, 8, 1, 2]))
 
 
 
-# Quick Sort Algorithm
+# Quick Sort Algorithm 
 # Quick Sort is an efficient divide-and-conquer sorting algorithm that works by selecting a pivot element and partitioning the array into two smaller subarrays: one with elements smaller than the pivot and one with elements greater than the pivot. Then, the algorithm recursively sorts the subarrays.
 
 # Key Concepts:
