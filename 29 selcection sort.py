@@ -1,5 +1,5 @@
 # Selection Sort works by repeatedly selecting the smallest element from the unsorted part of
-#  the array and swapping it with the first unsorted element.
+#  the array and swapping it with the first unsorted element 
 def selection_sort(arr):
     n=len(arr)
     for i in range(n):
